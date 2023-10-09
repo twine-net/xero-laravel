@@ -1,5 +1,5 @@
 {
-  "name": "pulkitjalan/xero-laravel",
+  "name": "twine-net/xero-laravel",
   "description": "A Laravel 5 wrapper for Xero",
   "homepage": "https://github.com/pulkitjalan/xero-laravel",
   "keywords": ["xero", "laravel"],
